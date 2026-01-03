@@ -1,0 +1,79 @@
+[
+  {
+    "id": "1",
+    "name": "Sớm muộn thì",
+    "author": "Anh trai 'Say Hi'" ,
+    "avatar": "https://images.genius.com/052a668677f93a547d99960c47be091a.1000x1000x1.png",
+    "file": "https://res.cloudinary.com/dcinrewso/video/upload/v1764424767/sommuonthi_bofnbq.mp4"
+  },
+  {
+    "id": "2",
+    "name": "Chúng ta kh thuộc về nhau",
+    "author": "Nguyễn Đình Lân",
+    "avatar": "https://image-cdn.nct.vn/playlist/2024/03/15/5/7/0/4/1710501377336_500.jpg",
+    "file": "https://res.cloudinary.com/dcinrewso/video/upload/f_mp3/v1764331128/ScreenRecording_11-27-2025_23-43-00_1_fe4qnd.mov"
+  },
+  {
+    "id": "3",
+    "name": "Tình mình lạ kỳ",
+    "author": "Lil Zpoet",
+    "avatar": "https://image-cdn.nct.vn/playlist/2025/09/25/r/N/O/a/1758777887527_500.jpg",
+    "file": "https://res.cloudinary.com/dcinrewso/video/upload/v1764423816/tinhminhlaky_yxs4po.mp4"
+  },
+  {
+    "id": "4",
+    "name": "Không buông",
+    "author": "Hngle, Ari",
+    "avatar": "https://image-cdn.nct.vn/song/2025/08/18/9/1/d/f/1755507611412_300.jpg",
+    "file": "https://res.cloudinary.com/dcinrewso/video/upload/v1764423928/khongbuong_su2lwl.mp4"
+  },
+  {
+    "id": "5",
+    "name": "Inlove",
+    "author": "LowG, JustaTee",
+    "avatar": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/d/b/3/4/db341686a83bf27dc6f144af1ae3a7d9.jpg",
+    "file": "https://res.cloudinary.com/dcinrewso/video/upload/v1764424062/inlove_y9v8hl.mp4"
+  },
+  {
+    "id": "6",
+    "name": "MD Anniversary",
+    "author": "BAN, CoolKid",
+    "avatar": "https://image-cdn.nct.vn/song/2023/10/02/c/5/c/8/1696238318389_300.jpg",
+    "file": "https://res.cloudinary.com/dcinrewso/video/upload/v1764424177/MD_vz1rat.mp4"
+  },
+  {
+    "id": "7",
+    "name": "09/02",
+    "author": "Minh Thư",
+    "avatar": "https://cdn-images.dzcdn.net/images/cover/b9578a8dc92bf68b826fd91a77e5afe1/0x1900-000000-80-0-0.jpg",
+    "file": "https://res.cloudinary.com/dcinrewso/video/upload/v1764424306/0902_ftjzc3.mp4"
+  },
+  {
+    "id": "8",
+    "name": "Mùa đông",
+    "author": "Dương Đình Triệu Vỹ",
+    "avatar": "https://photo-resize-zmp3.zadn.vn/w600_r1x1_jpeg/cover/1/5/9/1/1591a54b08a2775431dde9bd771bd8a5.jpg",
+    "file": "https://res.cloudinary.com/dcinrewso/video/upload/v1764424435/muadong_boizhq.mp4"
+  },
+  {
+    "id": "9",
+    "name": "Người đầu tiên",
+    "author": "Juky San, BuiTruongLinh",
+    "avatar": "https://photo-resize-zmp3.zadn.vn/w600_r1x1_jpeg/cover/6/8/c/9/68c95397051202625f2a0d5be7b4c009.jpg",
+    "file": "https://res.cloudinary.com/dcinrewso/video/upload/v1764424548/nguoidautien_oxwp64.mp4"
+  },
+  {
+    "id": "10",
+    "name": "Chẳng phải tình đầu sao đau đến thế",
+    "author": "MIN, Dangrangto, antransax",
+    "avatar": "https://i1.sndcdn.com/artworks-vIaMpk7Tr1oDqVR5-ipXV0A-t1080x1080.png",
+    "file": "https://res.cloudinary.com/dcinrewso/video/upload/v1764424643/changphaitinhdausaodaudenthe_xcgoxh.mp4"
+  },
+  {
+    "id": "11",
+    "name": "Không thời gian",
+    "author": "Dương Domic",
+    "avatar": "https://photo-resize-zmp3.zadn.vn/w600_r1x1_jpeg/cover/a/1/4/5/a145d2feb33de92c02e58f83970db732.jpg",
+    "file": "https://res.cloudinary.com/dcinrewso/video/upload/v1764424938/khongthoigian_d1utcg.mp4"
+  }
+]
