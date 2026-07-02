@@ -77,7 +77,7 @@ class WebSocketService {
 
       _userId = userId;
 
-      final wsUrl = dotenv.env['WEBSOCKET_URL'] ?? 'ws://172.20.10.3:8081';
+      final wsUrl = dotenv.env['WEBSOCKET_URL'] ?? 'ws://10.164.138.217:8081';
       print('🔌 Đang kết nối WebSocket: $wsUrl');
 
       _channel = WebSocketChannel.connect(Uri.parse(wsUrl));

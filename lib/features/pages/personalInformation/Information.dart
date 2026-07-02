@@ -6,7 +6,7 @@ import 'package:device_info_plus/device_info_plus.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:socialnetwork/data/server/mediaApi/MediaApi.dart';
 import 'package:socialnetwork/features/auth/loginPage.dart';
-import '../../../data/server/authApi/AuthApi.dart';
+import 'package:socialnetwork/features/auth/di/auth_dependencies.dart';
 
 class Information extends StatefulWidget {
   final Map<String, dynamic> tempData;
@@ -630,12 +630,12 @@ class _InformationState extends State<Information> {
       _isLoading = true;
     });
     try {
-      final result = await AuthApi.register(data);
-      if (result['success']) {
+      final result = await AuthDependencies.register(data);
+      if (result.success) {
         await showSuccessDialog(context);
-        print('✅ Đăng ký thành công: ${result['newData']}');
+        print('Đăng ký thành công: ${result.data}');
       } else {
-        print('lỗi: ${result['error']}');
+        print('Lỗi: ${result.error}');
         ScaffoldMessenger.of(context).showSnackBar(
           const SnackBar(
             content: Row(

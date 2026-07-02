@@ -60,7 +60,6 @@
                 <data android:scheme="myapp" android:host="post"/>
             </intent-filter>
 
-            <!-- ✅ HTTP deep link for users: http://192.168.1.5:8082/user/<userId> -->
             <intent-filter android:autoVerify="false">
                 <action android:name="android.intent.action.VIEW"/>
                 <category android:name="android.intent.category.DEFAULT"/>
@@ -73,7 +72,6 @@
                     android:pathPrefix="/user"/>
             </intent-filter>
 
-            <!-- ✅ HTTP deep link for posts: http://192.168.1.5:8082/post/<postId> -->
             <intent-filter android:autoVerify="false">
                 <action android:name="android.intent.action.VIEW"/>
                 <category android:name="android.intent.category.DEFAULT"/>

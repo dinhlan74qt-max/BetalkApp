@@ -26,7 +26,6 @@ import 'package:app_links/app_links.dart';
 import 'package:socialnetwork/features/pages/search/UserPage.dart';
 import 'dart:async';
 
-// ✅ [MỚI] Global Key cho Navigation
 final GlobalKey<NavigatorState> navigatorKey = GlobalKey<NavigatorState>();
 
 Future<void> _firebaseBackgroundHandler(RemoteMessage message) async {
@@ -420,7 +419,6 @@ class _MyAppState extends State<MyApp> {
         splitScreenMode: true,
         builder: (context, child) {
           return MaterialApp(
-            // ✅ [SỬA LỖI] Gán Global Key vào MaterialApp
             navigatorKey: navigatorKey,
             locale: const Locale('vi', 'VN'),
             supportedLocales: const [Locale('vi', 'VN'), Locale('en', 'US')],
